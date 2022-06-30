@@ -1,0 +1,14 @@
+Test plan:
+
+Hacer experimento con 4 combinaciones de t y th: los dos mejores vs dos regulares
+Cada experimento que tenga alrededor de 8 pasadas con dos personas diferentes 
+
+Experimento 1: Entradas
+Allan - Ricardo - Javier x3
+
+
+Experimento 2: Salidas
+Allan - Ricardo - Javier x3
+
+Experimento 3: Mixto
+Allan - Ricardo - Javier x3
